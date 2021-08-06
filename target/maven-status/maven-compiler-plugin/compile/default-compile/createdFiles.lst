@@ -1,0 +1,5 @@
+com/pl/fries/discovery/model/Post.class
+com/pl/fries/discovery/config/Config.class
+com/pl/fries/discovery/DiscoveryApplication.class
+com/pl/fries/discovery/controller/DiscoveryController.class
+com/pl/fries/discovery/service/DiscoveryService.class
